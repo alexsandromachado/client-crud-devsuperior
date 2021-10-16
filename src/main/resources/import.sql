@@ -1,0 +1,13 @@
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Pedro', '001.232.500-38', 7500.0, TIMESTAMP WITH TIME ZONE '1990-06-15T12:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Francisco', '007.154.630-75', 6500.0, TIMESTAMP WITH TIME ZONE '1980-02-05T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Ruan Pedro', '003.211.510-25', 7500.0, TIMESTAMP WITH TIME ZONE '1991-08-08T12:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Antônio', '002.114.580-22', 5000.0, TIMESTAMP WITH TIME ZONE '2000-01-12T08:20:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Jonathan', '003.232.120-28', 5200.0, TIMESTAMP WITH TIME ZONE '2002-04-04T08:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Ricardo', '001.256.343-31', 4500.0, TIMESTAMP WITH TIME ZONE '1999-02-05T18:15:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Jonas Luiz', '002.121.332-52', 4500.0, TIMESTAMP WITH TIME ZONE '1993-08-02T19:40:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Lucas', '004.731.052-51', 3800.0, TIMESTAMP WITH TIME ZONE '1993-06-15T11:00:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Norberto', '007.583.360-82', 4500.0, TIMESTAMP WITH TIME ZONE '1994-03-10T02:20:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Oscar Ferdinando', '003.234.220-41', 5000.0, TIMESTAMP WITH TIME ZONE '1990-06-15T12:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Cezar Augusto', '008.489.980-88', 2300.0, TIMESTAMP WITH TIME ZONE '1998-01-20T18:30:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Fábio', '006.111.497-36', 3500.0, TIMESTAMP WITH TIME ZONE '1998-01-10T06:50:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Gustavo', '005.884.577-27', 3000.0, TIMESTAMP WITH TIME ZONE '1998-09-26T07:15:00Z', 1);
